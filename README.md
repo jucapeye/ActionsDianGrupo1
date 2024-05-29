@@ -69,3 +69,4 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 - Para lanzar el push 😸
+- Para que se salte el push incluimos el skip ci
